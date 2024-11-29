@@ -141,7 +141,6 @@ ol {
   max-width: 471px;
   margin-bottom: 2.4rem;
 }
-
 .hero-section__btn {
   background-color: transparent;
   border: 1px solid var(--color-secondary);
@@ -159,7 +158,6 @@ ol {
   background-color: transparent;
   border-color: var(--color-secondary);
 }
-
 .hero-section__btn::after {
   content: "";
   position: absolute;
@@ -171,7 +169,6 @@ ol {
   transition: right 0.6s ease;
   z-index: 0;
 }
-
 .hero-section__btn:hover::after {
   right: 0;
 }
